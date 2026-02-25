@@ -747,11 +747,6 @@ See [LICENSE](LICENSE) for full details.
 ### Author
 
 **Arokiya Nithish J**
-- 🎓 Internship Company — Pratinik Infotech, Intern ID: 4138
-- 📅 Year: 2025–2026
-- 💼 Domain: Full-Stack Web Development | React | Node.js | SQL Server
-- [Internship Completed Certificate](https://drive.google.com/file/d/1nI-2xUSE-KImk_2WDrnI2FfbeRPDl0uc/view?usp=sharing)
-- [Internship Offer Letter](https://drive.google.com/file/d/10r7hiPup_ZBHaB4UwMsM8-cTb_Xr6bz3/view?usp=sharing)
 
 **Contacts**
 - GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
@@ -777,7 +772,7 @@ See [LICENSE](LICENSE) for full details.
 4. [Express.js — Official Documentation](https://expressjs.com)
 5. [mssql npm package — SQL Server Driver](https://www.npmjs.com/package/mssql)
 6. [Microsoft SQL Server — Documentation](https://learn.microsoft.com/sql/sql-server)
-7. [Report: Technical Fest Booking System — Project Report, Pratinik Infotech Internship, 2025](Report%20(1).pdf)
+7. [Report: Technical Fest Booking System](https://drive.google.com/file/d/1yNT2hFnDPtIcwx_H2YsUHq__7DKp1XDG/view?usp=drive_link)
 
 ---
 
@@ -792,4 +787,5 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *Made with ❤️ and JavaScript by Arokiya Nithish*
 
 </div>
+
 
