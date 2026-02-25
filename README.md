@@ -9,7 +9,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Internship](https://img.shields.io/badge/Internship-Pratinik%20Infotech-blueviolet?style=for-the-badge)](https://pratinik.in)
+
 
 > 🚀 **A complete full-stack web application** for managing technical festival event registrations — built with React 19, Node.js/Express, and Microsoft SQL Server — enabling students to browse events, book tickets, and allowing admins to manage all bookings in real time.
 
@@ -792,3 +792,4 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *Made with ❤️ and JavaScript by Arokiya Nithish*
 
 </div>
+
