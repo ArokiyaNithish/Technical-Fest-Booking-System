@@ -772,7 +772,6 @@ See [LICENSE](LICENSE) for full details.
 
 ### Acknowledgments
 
-- 🏢 **Pratinik Infotech** — For providing this real-world full-stack project challenge and internship opportunity
 - ⚛️ **React Team** — For the powerful, modern UI library ecosystem
 - ⚡ **Vite Team** — For the lightning-fast build toolchain
 - 🟢 **Node.js & Express Community** — For the robust server-side JavaScript framework
@@ -803,6 +802,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *Made with ❤️ and JavaScript by Arokiya Nithish*
 
 </div>
+
 
 
 
