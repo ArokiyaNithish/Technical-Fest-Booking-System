@@ -763,6 +763,10 @@ See [LICENSE](LICENSE) for full details.
 ### Author
 
 **Arokiya Nithish J**
+- Role : Backend and Database Developer
+- 💼 Domain: Full Stack Web Developement | Analysis | 
+- 🎓 Collage Vel Tech University
+- 📅 Year: 2026
 
 **Contacts**
 - GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
@@ -787,7 +791,7 @@ See [LICENSE](LICENSE) for full details.
 4. [Express.js — Official Documentation](https://expressjs.com)
 5. [mssql npm package — SQL Server Driver](https://www.npmjs.com/package/mssql)
 6. [Microsoft SQL Server — Documentation](https://learn.microsoft.com/sql/sql-server)
-7. [Report: Technical Fest Booking System](https://drive.google.com/file/d/1yNT2hFnDPtIcwx_H2YsUHq__7DKp1XDG/view?usp=drive_link)
+7. [Report: Technical Fest Booking System](https://drive.google.com/file/d/1ugzXGmW7SmYdzC7kCwcxQWftI9L8-bzN/view?usp=drive_link)
 
 ---
 
@@ -802,6 +806,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *Made with ❤️ and JavaScript by Arokiya Nithish*
 
 </div>
+
 
 
 
