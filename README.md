@@ -661,7 +661,7 @@ App.jsx
 https://github.com/user-attachments/assets/35a5693c-0e61-4d10-af5c-3eea09a89b8c
 
 
---
+---
 
 ## 🚀 Future Enhancements
 
@@ -815,6 +815,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *Made with ❤️ and JavaScript by Arokiya Nithish*
 
 </div>
+
 
 
 
