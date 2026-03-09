@@ -654,6 +654,11 @@ App.jsx
 
 ---
 
+
+## 📸 Screenshots
+![WhatsApp Image 2026-03-04 at 10 29 45 AM](https://github.com/user-attachments/assets/5da23086-394f-443d-9ae8-2235bff45cbe)
+
+
 ## Demo Video Prototype
 
 
@@ -815,6 +820,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *Made with ❤️ and JavaScript by Arokiya Nithish*
 
 </div>
+
 
 
 
